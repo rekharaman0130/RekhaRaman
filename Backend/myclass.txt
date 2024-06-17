@@ -2,5 +2,6 @@ public class MyClass {
   public static void main(String[] args) {
     
 System.Out.Println("Hello World");
+System.Out.Println("Hai");
   }
 }
